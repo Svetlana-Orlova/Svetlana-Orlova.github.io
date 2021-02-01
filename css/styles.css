@@ -302,6 +302,7 @@
 .page {
     background-color: rgba(60, 165, 156, 0.493); 
     vertical-align: middle;
+    min-width: 440px;
 }
 
 .site-main {
